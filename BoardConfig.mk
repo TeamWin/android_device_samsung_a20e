@@ -17,7 +17,7 @@
 DEVICE_PATH := device/samsung/a20e
 
 # OTA Assert
-TARGET_OTA_ASSERT_DEVICE := a20e,a202dd
+TARGET_OTA_ASSERT_DEVICE := a20e,a20exx
 
 # Architecture
 TARGET_ARCH := arm64

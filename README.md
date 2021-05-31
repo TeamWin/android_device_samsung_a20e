@@ -1,19 +1,12 @@
 # TWRP Samsung Galaxy A20e
 
-## How to compile it:
-
-To build:
-export ALLOW_MISSING_DEPENDENCIES=true
-
-setup envirnoment
-`. build/envsetup.sh`
-
-then prepare
-`lunch omni_a20e-eng`
-
-make the image
-`mka recoveryimage`
-
+## How-to build:
+```
+$ export ALLOW_MISSING_DEPENDENCIES=true
+ . build/envsetup.sh
+ lunch omni_a20e-eng
+ mka recoveryimage
+```
 ## How to find the image built
 
 `cd /out/target/product/a20e`
