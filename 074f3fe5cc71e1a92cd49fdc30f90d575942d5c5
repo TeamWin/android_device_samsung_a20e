@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2028119a_b833a3a3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2021-05-31T23:56:38Z",
+      "side": 1,
+      "message": "Hello, you should now be able to merge updates through the gerrit UI.",
+      "revId": "074f3fe5cc71e1a92cd49fdc30f90d575942d5c5",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    }
+  ]
+}
