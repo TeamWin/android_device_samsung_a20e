@@ -16,6 +16,23 @@
       "message": "Hello, you should now be able to merge updates through the gerrit UI.",
       "revId": "074f3fe5cc71e1a92cd49fdc30f90d575942d5c5",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1a4f13e7_d5954f0f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 675
+      },
+      "writtenOn": "2021-06-01T11:45:12Z",
+      "side": 1,
+      "message": "Are you sure this model exists? (a20exx)",
+      "revId": "074f3fe5cc71e1a92cd49fdc30f90d575942d5c5",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ]
 }
